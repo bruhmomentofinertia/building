@@ -419,7 +419,7 @@ function makeBall(wave) {
 
 
 
-document.getElementById('dropButton').addEventListener('click', () => launchBalls(60));
+//document.getElementById('dropButton').addEventListener('click', () => launchBalls(60));
 
 // ===== Animate =====
 const clock = new THREE.Clock();
